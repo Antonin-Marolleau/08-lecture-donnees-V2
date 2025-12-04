@@ -1,4 +1,12 @@
 > [!CAUTION]
+
+''' Ce code utilise le code de @Antonin-Marolleau dans son intégralité
+# et est soumis aux restrictions du
+# plagiat sur @Antonin-Marolleau dans son intégralité ainsi
+# que du copyright ©2024-2025 pour son
+# auteur @Antonin-Marolleau
+ Il suit le modèle de @Daniel-Courivaud
+'''
 Ce travail s'effectue dans [l'environnement Github](https://perso.esiee.fr/~courivad/courses/utils/misc-01-github-environment.html)
 
 # Lecture de données
